@@ -1,0 +1,3 @@
+/Users/iqura/clion_pojects/labaDB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/iqura/clion_pojects/labaDB/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/iqura/clion_pojects/labaDB/cmake-build-debug/CMakeFiles/labaDB.dir
